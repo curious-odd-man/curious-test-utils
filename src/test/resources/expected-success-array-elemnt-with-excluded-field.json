@@ -1,0 +1,35 @@
+[
+    {
+        "text": "setText-String-10500",
+        "count": 10500,
+        "primitive": 10500,
+        "offsetDateTime": "2028-09-30 09:08:07.000654321+00",
+        "localDateTime": "2049-10-01T11:10:09",
+        "localDate": "2049-10-01",
+        "sqlDate": "2049-11-03",
+        "sqlTimestamp": "2048-09-30 12:11:10.000123789+00",
+        "utilDate": "2049-11-03"
+    },
+    {
+        "text": "setText-String-10501",
+        "count": 10501,
+        "primitive": 10501,
+        "offsetDateTime": "2028-10-01 09:08:07.000654321+00",
+        "localDateTime": "2049-10-02T11:10:09",
+        "localDate": "2049-10-02",
+        "sqlDate": "2049-11-04",
+        "sqlTimestamp": "2048-10-01 12:11:10.000123789+00",
+        "utilDate": "2049-11-04"
+    },
+    {
+        "text": "setText-String-10502",
+        "count": 10502,
+        "primitive": 10502,
+        "offsetDateTime": "2028-10-02 09:08:07.000654321+00",
+        "localDateTime": "2049-10-03T11:10:09",
+        "localDate": "2049-10-03",
+        "sqlDate": "2049-11-05",
+        "sqlTimestamp": "2048-10-02 12:11:10.000123789+00",
+        "utilDate": "2049-11-05"
+    }
+]

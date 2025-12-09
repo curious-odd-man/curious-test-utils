@@ -1,0 +1,25 @@
+[
+    {
+        "name": "test-timer",
+        "measurements": [
+            {
+                "statistic": "COUNT",
+                "value": 1.0
+            },
+            {
+                "statistic": "TOTAL_TIME",
+                "value": 123.0
+            },
+            {
+                "statistic": "MAX",
+                "value": 123.0
+            }
+        ],
+        "metricTags": [
+            {
+                "key": "tag3",
+                "value": "val3"
+            }
+        ]
+    }
+]

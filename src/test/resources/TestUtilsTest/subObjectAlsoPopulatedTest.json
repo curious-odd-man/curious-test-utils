@@ -1,0 +1,23 @@
+{
+    "demoPojo": {
+        "anInt": 10,
+        "integer": 10,
+        "longClass": 10,
+        "floatClass": 10.0,
+        "doubleClass": 10.0,
+        "booleanClass": true,
+        "offsetDateTime": "2000-01-11 09:08:07.000654321+00",
+        "localDateTime": "2021-01-11T11:10:09",
+        "bigDecimal": 10,
+        "string": "setString-String-10",
+        "instant": "2020-01-11T12:11:10.000123789Z",
+        "localDate": "2021-01-11",
+        "map": {},
+        "list": [],
+        "demoEnum": "HELLO",
+        "aboolean": true,
+        "afloat": 10.0,
+        "adouble": 10.0,
+        "along": 10
+    }
+}
